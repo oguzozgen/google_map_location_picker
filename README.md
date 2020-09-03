@@ -18,6 +18,7 @@ For message localization inside the library please add in `MaterialApp`
 
 ```dart
 import 'package:google_map_location_picker/generated/l10n.dart' as location_picker;
+import 'package:flutter_localizations/flutter_localizations.dart';
 
 MaterialApp(
   localizationsDelegates: const [
